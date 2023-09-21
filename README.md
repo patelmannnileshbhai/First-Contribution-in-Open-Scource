@@ -114,7 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
-	    </td>
+	    <td align="center">
+		            <a href="https://github.com/patelmannnileshbhai">
+		            <img src="https://avatars.githubusercontent.com/u/144906953?v=4" width="100px;"/>
+		            <br />
+		            <sub><b> mann patel </b></sub>
+		            </a>
+		</td>
         </tr>
     </tbody>
 </table>
